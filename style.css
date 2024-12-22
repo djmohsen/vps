@@ -18,6 +18,9 @@ body {
             -webkit-background-clip: text;
             color: transparent;
         }
+.center {
+    position: fixed;
+}
 svg {
 	position: fixed;
 	top: 0;
